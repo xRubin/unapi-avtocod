@@ -1,5 +1,5 @@
 {
-    "name": "unapi/avtokod",
+    "name": "unapi/avtocod",
     "description": "Unapi https://avtocod.ru/ service wrapper",
     "keywords": ["unapi", "guzzle", "async", "promise", "fms", "avtocod.ru", "b2bapi.avtocod.ru", "b2b"],
     "type": "library",
